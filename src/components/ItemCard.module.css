@@ -1,0 +1,9 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3125rem;
+  padding: 0.625rem;
+  width: 100%;
+  inline-size: 100%;
+  border: 1px solid lightgray;
+}
