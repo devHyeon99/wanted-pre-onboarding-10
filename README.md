@@ -18,3 +18,4 @@
 5. 3, 4번 조건 외의 라이브러리는 자유롭게 사용하셔도 됩니다
 
 ## 과제 영상
+![2024-10-0313 47 50-ezgif com-optimize](https://github.com/user-attachments/assets/c0ab83fc-65dc-4401-a5a3-82be6dc585a7)
